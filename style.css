@@ -1,0 +1,32 @@
+body{
+    color:aliceblue;
+    background:rgb(216, 3, 116);
+}
+
+header{
+    border-bottom: solid 3px rgb(216, 3, 116);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(216, 3, 116);
+}
+
+section {
+background: rgb(216, 3, 116);
+padding-bottom: 80px;
+padding-top:  80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+
+    margin-right: 5%;
+}
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+}
